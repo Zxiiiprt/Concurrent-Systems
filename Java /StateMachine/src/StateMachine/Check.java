@@ -3,7 +3,7 @@
  */
 package StateMachine;
 /**
- * @author Aaditya Sharma
+ * @author Zxiiiprt
  *
  */
 public class Check {

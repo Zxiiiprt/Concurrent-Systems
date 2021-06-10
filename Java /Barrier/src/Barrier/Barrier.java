@@ -3,7 +3,7 @@
  */
 package Barrier;
 /**
- * @author Aaditya Sharma
+ * @author Zxiiiprt
  *
  */
 public class Barrier {
